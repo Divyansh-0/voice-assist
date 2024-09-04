@@ -24,7 +24,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAYGRHzsa9_V9AsbrfXXSDj5VRrCnYZaoo"
+os.environ["GOOGLE_API_KEY"] = ""
 
 
 app = Flask(__name__)
